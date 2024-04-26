@@ -1,7 +1,7 @@
 
-                                                                       Hi 👋, I'm Deepak Choudhary
-                     ----------------------------------------------------------------------------------------------------------------------------------------------
-                                                         A passionate self-taught full stack developer from India
+                                         Hi 👋, I'm Deepak Choudhary
+    ----------------------------------------------------------------------------------------------------------------------------------------------
+                             A passionate self-taught full stack developer from India
 
 
 - 👀 I’m interested in java full stack deveopment
