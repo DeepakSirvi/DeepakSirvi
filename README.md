@@ -8,7 +8,7 @@
 
 🔭 I’m currently working on E-Candidate project 
 
-💬 Ask me about Java, C, Spring, Angular, And Mysql
+💬 Ask me about Java, C, Spring, Angular, Devops And Mysql
 
 📫 How to reach me? deepaksirvi45@gmail.com
 
